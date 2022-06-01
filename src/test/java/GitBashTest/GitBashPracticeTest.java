@@ -9,6 +9,7 @@ public class GitBashPracticeTest {
 	{
 		Reporter.log("hi Dany",true);
 		Reporter.log("bye dany",true);
+//person2
 	}
 
 }
