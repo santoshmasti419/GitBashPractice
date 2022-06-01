@@ -8,6 +8,7 @@ public class GitBashPracticeTest {
 	public void gitBashPractice1()
 	{
 		Reporter.log("hi Dany",true);
+		Reporter.log("bye dany",true);
 	}
 
 }
