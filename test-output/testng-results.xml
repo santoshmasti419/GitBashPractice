@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[hi Dani]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-06-01T12:03:18 IST" name="Default suite" finished-at="2022-06-01T12:03:19 IST" duration-ms="455">
+    <groups>
+    </groups>
+    <test started-at="2022-06-01T12:03:18 IST" name="Default test" finished-at="2022-06-01T12:03:19 IST" duration-ms="455">
+      <class name="GitBashTest.GitBashPracticeTest">
+        <test-method signature="gitBashPractice1()[pri:0, instance:GitBashTest.GitBashPracticeTest@70e02081]" started-at="2022-06-01T12:03:18 IST" name="gitBashPractice1" finished-at="2022-06-01T12:03:19 IST" duration-ms="155" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[hi Dani]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- gitBashPractice1 -->
+      </class> <!-- GitBashTest.GitBashPracticeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
